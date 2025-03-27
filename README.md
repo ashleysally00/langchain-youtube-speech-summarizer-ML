@@ -65,7 +65,7 @@ This project will demonstrate how LangChain can process transcripts—like YouTu
 
 **Summary:**
 
-Sundar Pichai encourages the graduating class to remain optimistic despite uncertainty. Drawing from his own beginnings, he highlights the power of technology as a lifeline and a tool for connection, education, and opportunity. He urges graduates to stay open, impatient, and hopeful as they shape the future, emphasizing their ability to create positive change.
+generate using LangChain next
 
 ---
 
